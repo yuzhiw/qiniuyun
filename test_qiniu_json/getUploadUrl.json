@@ -1,0 +1,36 @@
+{
+  "code": 0,
+	"data": {
+		"appId": 10079,
+		"expireSeconds": 7200,
+		"keyPrefix": "dev_banpai/",
+		"policyList": [{
+			"formFields": [{
+					"key": "x:appid",
+					"vale": "10079"
+				},
+				{
+					"key": "x:sessionid",
+					"vale": "76740312f15f4123847ba480f1d17fc3"
+				},
+				{
+					"key": "x:bcketid",
+					"vale": "10"
+				},
+				{
+					"key": "key",
+					"vale": "dev_banpai/8732b1c25eab4f8dbf3f8068f6b09491"
+				},
+				{
+					"key": "token",
+					"vale": "wB1dLFXcXGgLbk_kGxs6iyvbaTj-NLP04VpXVjbY:bQwKBkSNjnNzH5L-5HO2lo0m2Ks=:eyJzY29wZSI6ImRldi1wcml2YXRlIiwiY2FsbGJhY2tVcmwiOiJodHRwOi8vY3N0b3JlLnRlc3Qc2Vld28Y29tL2NzdG9yZV9jYi92Mi9xaW5pdT9hcHBpZFx1MDAzZDEwMDc5XHwMDI2c2Vzc2lvbmlkXHwMDNkMWEzYjBiODk0Zj0NDc1ZTk3ZGYwYmI5NTliMzI3MjIiLCJmc2l6ZxpbWl0Ijo1MjQyODgwMCwiZnNpemVNaW4iOjAsImRlYWRsaW5lIjoxNTI4ODYwNjE4LCJjYWxsYmFja0JvZHkiOiJrZXlcdTAwM2QkKGtleSlcdTAwMjZmc2l6ZVx1MDAzZCQoZnNpempXHwMDI2YnVja2V0XHwMDNkJChidWNrZXQpXHwMDI2YXBwaWRcdTAwM2QkKHg6YXBwaWQpXHwMDI2YnVja2V0aWRcdTAwM2QkKHg6YnVja2V0aWQpXHwMDI2c2Vzc2lvbmlkXHwMDNkJCh4OnNlc3Npb25pZCkifQ=="
+				}
+			],
+			"headerFields": [],
+			"priority": 0,
+			"type": "qini",
+			"ploadrl": "https://p.qbox.me"
+		}]
+	},
+	"message": "Ok"
+}
